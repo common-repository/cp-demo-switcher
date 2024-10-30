@@ -1,0 +1,175 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CP Demo Switcher\n"
+"POT-Creation-Date: 2018-09-16 13:07+0600\n"
+"PO-Revision-Date: 2018-09-16 13:07+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: cp-demo-switcher.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cp-demo-switcher.php:101
+msgid "Setting"
+msgstr ""
+
+#: cp-demo-switcher.php:138 include/cds-project.php:209
+msgid "HTML"
+msgstr ""
+
+#: cp-demo-switcher.php:138 include/cds-project.php:209
+msgid "WordPress"
+msgstr ""
+
+#: cp-demo-switcher.php:166
+msgid "CDS Logo"
+msgstr ""
+
+#: cp-demo-switcher.php:169 include/cds-settings-fields.php:37
+msgid "Logo"
+msgstr ""
+
+#: include/cds-project.php:28 include/cds-project.php:56
+#: include/cds-project.php:57 include/cds-project.php:58
+msgid "Demo Switcher"
+msgstr ""
+
+#: include/cds-project.php:59
+msgid "Parent Project"
+msgstr ""
+
+#: include/cds-project.php:60
+msgid "All Project"
+msgstr ""
+
+#: include/cds-project.php:61
+msgid "View Project"
+msgstr ""
+
+#: include/cds-project.php:62 include/cds-project.php:63
+msgid "Add New Project"
+msgstr ""
+
+#: include/cds-project.php:64
+msgid "Edit Project"
+msgstr ""
+
+#: include/cds-project.php:65
+msgid "Update Project"
+msgstr ""
+
+#: include/cds-project.php:66
+msgid "Search Project"
+msgstr ""
+
+#: include/cds-project.php:67
+msgid "Not found"
+msgstr ""
+
+#: include/cds-project.php:68
+msgid "Not found in Trash"
+msgstr ""
+
+#: include/cds-project.php:72
+msgid "CDS Project"
+msgstr ""
+
+#: include/cds-project.php:73
+msgid "Create and manage all CDS Project"
+msgstr ""
+
+#: include/cds-project.php:94
+msgid "Content Info"
+msgstr ""
+
+#: include/cds-project.php:137
+msgid "Remove"
+msgstr ""
+
+#: include/cds-project.php:206
+msgid "Tag"
+msgstr ""
+
+#: include/cds-project.php:212
+msgid "Theme Preview Image"
+msgstr ""
+
+#: include/cds-project.php:217
+msgid "Theme URL"
+msgstr ""
+
+#: include/cds-project.php:222
+msgid "Theme Purchase URL"
+msgstr ""
+
+#: include/cds-project.php:227
+msgid "Description"
+msgstr ""
+
+#: include/cds-project.php:232
+msgid "Pages"
+msgstr ""
+
+#: include/cds-settings-class.php:29
+msgid "settings must be an array"
+msgstr ""
+
+#: include/cds-settings-class.php:225
+msgid "Upload an image"
+msgstr ""
+
+#: include/cds-settings-class.php:225
+msgid "Use image"
+msgstr ""
+
+#: include/cds-settings-class.php:225
+msgid "Upload new image"
+msgstr ""
+
+#: include/cds-settings-class.php:226
+msgid "Remove image"
+msgstr ""
+
+#: include/cds-settings-fields.php:33
+msgid "Demo Switcher Setting"
+msgstr ""
+
+#: include/cds-settings-fields.php:42
+msgid "Logo Text"
+msgstr ""
+
+#: template/page-demo-switcher.php:52
+msgid "Buy Now"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CP Demo Switcher"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://codepassenger.com/wp/demo"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Switch between Theme Demo and Pages for Theme Author"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodePassenger"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://codepassenger.com/"
+msgstr ""
